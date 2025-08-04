@@ -53,6 +53,7 @@ The final model is deployed as an interactive **Streamlit web application**.
 ## 📬 Contact
 
 Built as part of my **AIML internship at Dlithe**.
+www.linkedin.com/in/saniya-riona-carlo-8ab116323
 
 Feel free to connect:  
 🔗 [LinkedIn: Saniya Riona Carlo](https://www.linkedin.com/in/saniya-riona-carlo)
